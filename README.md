@@ -20,7 +20,7 @@ The code for this project is majorly separated into 3 different folders. All cod
 
 # Dataset Generation
 
-The first step of the code is to generate the dataset of choice. In our case we generated the dataset based on the BBC SoundDescs Dataset. We have provided the code that we used during this dataset generation in a notebook within the Dataset Generation. The dataset_generation folder consists of the notebook that has stepwise instructions to generate the dataset of audioclips. This can be easily extended to a dataset of choice by simply changing the input parameters within the notebook and the class values.
+Due to the lack of well-defined datasets for our segmentation approach, the first step of the project was to generate the dataset to set an adequate baseline. In our case we generated the dataset based on the BBC SoundDescs Dataset. We have provided the code that we used during this dataset generation in a notebook within the Dataset Generation. The dataset_generation folder consists of the notebook that has stepwise instructions to generate the dataset of audioclips. This can be easily extended to a dataset of choice by simply changing the input parameters within the notebook and the class values.
 
 # Model Experiments
 
