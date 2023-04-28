@@ -1,0 +1,12 @@
+0.0,10.0,aircraft
+10.0,14.94,rainforest
+14.94,15.995,aircraft
+15.995,19.395,clocks
+19.395,20.995,clocks
+20.995,30.995,clocks
+30.995,36.924,crowds
+36.924,40.324,clocks
+40.324,45.264,rainforest
+45.264,53.0,car
+53.0,61.2,rainforest
+61.2,62.916,car
