@@ -29,3 +29,5 @@ The second part of the code was setting up the model baseline and then making ex
 # Demo
 
 The final folder contains a much smaller notebook that is only meant to illustrate the inference of the model on unknown data. This uses the best model and handles a few sample inputs and output audio files that were not at all part of the train or validation sets. These examples are only to indicate how well our model finally performed on the task and allow individuals to explore the final output of this project.
+
+Ensure the entire folder has been pushed to a google colab environment preferably. There are some instructions to run it in different environments but do not seem fully dependable.
